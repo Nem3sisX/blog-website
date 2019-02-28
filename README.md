@@ -1,2 +1,2 @@
 # blog-website
-django-based blogging app
+django-based blogging web app
