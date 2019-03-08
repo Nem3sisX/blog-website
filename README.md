@@ -10,13 +10,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-  * install dependencies using requirements.txt 
+  * install dependencies using `requirements.txt `
 
 ### Installation
 
   * Clone this repository from [here](https://github.com/Nem3sisX/blog-website.git).
-  * Using command line cd to the directory where you've cloned this repo.
-  * On command-line in the correct directory run "python manage.py runserver" for local host implementation.
+  * Using command line `cd` to the directory where you've cloned this repo.
+  * On command-line in the correct directory run `python manage.py runserver` for local host implementation.
 
 ## Deployment
 
@@ -29,4 +29,4 @@ Web App can be deployed using Heroku or similar web hosting services.
 
 ## Author
 
-* **Shresth Rana** - *Initial work* - [Nem3sisX](https://github.com/Nem3sisX)
+* **Shresth Rana** - [Nem3sisX](https://github.com/Nem3sisX)
