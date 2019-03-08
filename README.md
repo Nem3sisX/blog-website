@@ -15,7 +15,7 @@ What things you need to install the software and how to install them
 ### Installation
 
   * Clone this repository from [here](https://github.com/Nem3sisX/blog-website.git).
-  * Using command line `cd` to the directory where you've cloned this repo.
+  * Using command line, `cd` to the directory where you've cloned this repo.
   * On command-line in the correct directory run `python manage.py runserver` for local host implementation.
 
 ## Deployment
