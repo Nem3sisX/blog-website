@@ -27,6 +27,6 @@ Web App can be deployed using Heroku or similar web hosting services.
   * [Django](https://www.djangoproject.com/) - The web framework used
   * [Python](https://www.python.org/) - Core Language
 
-## Authors
+## Author
 
 * **Shresth Rana** - *Initial work* - [Nem3sisX](https://github.com/Nem3sisX)
