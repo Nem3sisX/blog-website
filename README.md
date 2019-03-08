@@ -1,2 +1,27 @@
-# blog-website
-django-based blogging web app
+# Blog Web App- Django
+
+Implemented a django backend framework for a blogging web app.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+install dependencies using requirements.txt 
+on commandline in the correct directory run "python manage.py runserver" for local host implementation.
+
+## Deployment
+
+Web App can be deployed using Heroku or similar web hosting services.
+
+## Built With
+
+* [Django](https://www.djangoproject.com/) - The web framework used
+* [Python](https://www.python.org/) - Core Language
+
+## Authors
+
+* **Shresth Rana** - *Initial work* - [Nem3sisX](https://github.com/Nem3sisX)
