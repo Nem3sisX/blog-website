@@ -1,6 +1,6 @@
 # Blog Web App- Django
 
-Implemented a django backend framework for a blogging web app.
+Implemented a Django backend framework for a blogging web app.
 
 ## Getting Started
 
