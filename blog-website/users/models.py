@@ -9,7 +9,7 @@ class Profile(models.Model):
     def __str__(self):
         return '{}Profile'.format(self.user.username)
 
-    def save(self):
+    def save(self, **kwargs):
         super().save()
 
         img= Image.open(self.image.path)
