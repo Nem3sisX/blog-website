@@ -16,6 +16,7 @@ What things you need to install the software and how to install them
 
   * Clone this repository from [here](https://github.com/Nem3sisX/blog-website.git).
   * Using command line, `cd` to the directory where you've cloned this repo.
+  * Use `source venv/bin/activate` to activate virtual environment.
   * On command-line in the correct directory run `python manage.py runserver` for local host implementation.
 
 ## Deployment
