@@ -2,6 +2,7 @@
 
 Implemented a Django backend framework for a blogging web app.
 
+![screenshot](https://github.com/Nem3sisX/blog-website/blob/master/screen.png)
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
