@@ -1,6 +1,6 @@
 # Blog Web App [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://python.org) ![forthebadge](https://forthebadge.com/images/badges/uses-html.svg) ![forthebadge](https://forthebadge.com/images/badges/uses-css.svg) 
 
-Implemented a Django backend framework for a blogging web app.
+Implemented a Django backend framework in python for a blogging webapp with some included basic functionalities.
 
 ![screenshot](https://github.com/Nem3sisX/blog-website/blob/master/screen.png)
 ## Getting Started
