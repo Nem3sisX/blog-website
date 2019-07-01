@@ -1,4 +1,4 @@
-# Blog Web App- Django
+# Blog Web App [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://python.org) ![forthebadge](https://forthebadge.com/images/badges/uses-html.svg) ![forthebadge](https://forthebadge.com/images/badges/uses-css.svg) 
 
 Implemented a Django backend framework for a blogging web app.
 
